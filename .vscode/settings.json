@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.rs": "rust",
+        "types.h": "c",
+        "windows.h": "c",
+        "winsock2.h": "c",
+        "ws2def.h": "c",
+        "stdio.h": "c"
+    }
+}
